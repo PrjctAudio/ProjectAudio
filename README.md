@@ -4,6 +4,8 @@
 
 *Where computational intelligence meets sonic creativity*
 
+- [Github](https://github.com/PrjctAudio/ProjectAudio)
+
 ---
 
 ## 🚀 Overview
